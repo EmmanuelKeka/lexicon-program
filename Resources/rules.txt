@@ -1,0 +1,12 @@
+S NP NN VP V JJ DT S1
+S1 S
+S NP VP
+NP DT NN
+VP V NP
+NP DT ADJ NN
+DT a the
+NN person people
+V like likes dislike dislikes
+DT the
+ADJ green
+NN dog
